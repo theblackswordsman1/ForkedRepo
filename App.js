@@ -6,8 +6,6 @@ export default function App() {
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app!</Text>
       <Text>My second text.</Text>
-      <Text>New line for uke 1.</Text>
-      <Text>Second line for uke 1.</Text>
       <StatusBar style="auto" />
     </View>
   );
